@@ -1,0 +1,13 @@
+subdirectories = ["subdir"]
+
+[shaders.test-vertex]
+path = "vertex.glsl"
+kind = "vertex"
+
+[shaders.text-fragment]
+path = "fragment.glsl"
+kind = "fragment"
+
+[shaders.test-compute]
+path = "compute.glsl"
+kind = "compute"

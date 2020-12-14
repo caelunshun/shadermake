@@ -1,0 +1,7 @@
+[shaders.test-subdir]
+path = "subdir.glsl"
+kind = "vertex"
+
+[shaders.test-wgsl]
+path = "wgsl-shader.wgsl"
+kind = "vertex"
